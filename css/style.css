@@ -1,0 +1,95 @@
+@media expression {
+}
+
+.masthead {
+  text-align: center;
+  padding: 8em 0;
+  background-image: url('http://i.imgur.com/asrqmEi.jpg');
+  background-size: 100% 100%;
+  border-top: 2em solid #A57950;
+  border-bottom:2em solid #A57950;       
+}
+
+.masthead-heading {
+  text-align: center;
+  margin-top: 0.2em;
+  font-size: 9em;
+  font-style: italic;
+  color: #2B2925;
+  text-shadow: 6px 3px 2px #57524B;
+  font-family: 'Lobster', cursive;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.masthead-intro {
+  text-align: center;
+  margin-top: -0.6em;
+  margin-bottom: 0.1em;
+  font-size: 2.5em;
+  color: #2B2925;
+  text-shadow: 3px 2px 3px #57524B;
+  font-style: italic;
+  letter-spacing: -0.04em;
+  font-weight: light;
+}
+
+.bio-intro,
+.hometown-intro,
+.extras-intro {
+  max-width: 38em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+}
+
+.extras-intro {
+  margin-bottom: 3em;
+}
+
+.bio-heading,
+.hometown-heading,
+.extras-heading {
+  font-family: 'Lobster', cursive;
+  font-weight: 200;
+  font-size: 3em;
+}
+
+.bio-description,
+.hometown-description,
+.extras-answers {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.25em;
+}
+
+
+.extras-questions {
+  font-family: 'Lobster', cursive;
+  font-size: 1.75em;
+  color: #A57950;
+  font-weight: 200;
+}
+
+.page-footer {
+  font-family: 'Lobster', cursive;
+  font-size: 1.25em;
+  background: #A57950;
+  padding: 7em;
+  text-align: center;
+}
+
+  .social > li {
+    display: inline-block;
+    margin-right: 2em;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+
+a {
+  color: white;
+  text-decoration: none;
+  }
+
+.Unsplash {
+  margin-left: .5em;
+  font-family: 'Roboto Condensed', sans-serif;
+}
